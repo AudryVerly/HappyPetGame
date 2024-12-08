@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HappyPetGame_160422127_Audry.Pet">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIkigCAFYAAgAQABAAECAQAAAgEAABAgAAAAAACAAg=</HashCode>
+      <FileName>Pet.cs</FileName>
+      <NewMemberFileName>pet.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="owner" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="listToys" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Cat">
+    <Position X="1" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAgAAAQAAAAAAAAAAAAABAAAAAQQAgAAAAAAAAAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+      <NewMemberFileName>cat.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Fish">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Chameleon">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAQAAAAAAAAAAAAAAgAAAAIAAAAAAQAAAAAA=</HashCode>
+      <FileName>chameleon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Player">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAgAAAAAAAAIAAAACAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+      <NewMemberFileName>player.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Toy">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhgAAAAYAAAAAAAAAAAAQAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Toy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HappyPetGame_160422127_Audry.Hamster">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAgAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Hamster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
